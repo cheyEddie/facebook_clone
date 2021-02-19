@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.upload{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 5rem;
+    text-align: center;
+}
+.upload h2{
+    margin-bottom: 2rem;
+}
+.upload input[type=submit]{
+    font-weight: bold;
+    background-color: #62a24f;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    float: right;
+}
+#photo{
+
+}
